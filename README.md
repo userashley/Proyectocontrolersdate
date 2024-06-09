@@ -4,6 +4,7 @@ Se desarrollo una interfaz gráfica de usuario (GUI) en JavaFX que permite a los
 ![Captura de Pantalla de la Aplicación](Resultado.png).
 ## DatePicker
 Un control de selección de fecha que permita a los usuarios seleccionar una fecha específica desde un calendario desplegable.
+
 ![Captura de Pantalla de la Aplicación](DatePicker.png).
 ## ColorPicker
 Un control de selección de color que permita a los usuarios elegir un color específico desde una paleta de colores.
